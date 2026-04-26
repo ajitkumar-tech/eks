@@ -5,7 +5,7 @@ var password=document.getElementById("password").value;
 
 if(username=="admin" && password=="admin123")
 {
-document.getElementById("message").innerHTML="Welcome to Mind Circuit 🚀";
+document.getElementById("message").innerHTML="Welcome to Mind Circuit ";
 }
 else
 {
